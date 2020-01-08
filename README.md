@@ -1,2 +1,2 @@
-# Application-de-messagerie-S-curis-e
+# Application-de-messagerie-Securisee
 Sécuriser l'application de messagerie développée lors du premier projet.
