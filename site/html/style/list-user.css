@@ -1,0 +1,17 @@
+.content{
+    margin: auto;
+}
+
+.modify{
+    border-style: solid;
+    border-radius: 10px;
+    background-color: #563d7c;
+    color: white;
+}
+
+.delete{
+    border-style: solid;
+    border-radius: 10px;
+    background-color: grey;
+    color: white;
+}
