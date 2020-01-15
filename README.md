@@ -40,7 +40,9 @@ docker exec -u root sti_project service php5-fpm start
 ```
 
 Le container est opérationnel, allez sur votre navigateur et entrez l'adresse : [localhost:8080](http://localhost:8080) (ou [192.168.99.100:8080](http://192.168.99.100:8080) pour les systèmes windows)
-pour utiliser l'application. Les identifiants sont:\ pseudo: root2\ mot de passe: 0123456789@
+pour utiliser l'application. Les identifiants sont:\
+pseudo: root2\
+mot de passe: 0123456789@
 	
 Pour arrêter le container:
 
